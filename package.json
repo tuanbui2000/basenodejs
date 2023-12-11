@@ -1,0 +1,20 @@
+{
+  "name": "vanshop",
+  "version": "1.0.0",
+  "description": "Thương hiệu thiết kế thời trang vanshop  với phong cách sang trọng, tinh tế cùng nàng diện từ công sở đến các buổi tiệc sang trọng.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tunbui",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "7.23.5",
+    "@babel/node": "7.22.19",
+    "@babel/preset-env": "7.23.5",
+    "body-parser": "1.12.2",
+    "dotenv": "16.3.1",
+    "express": "4.18.2",
+    "nodemon": "3.0.2"
+  }
+}
